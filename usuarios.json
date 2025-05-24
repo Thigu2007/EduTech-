@@ -1,0 +1,64 @@
+{
+    "Thiago": {
+        "pontos": 100,
+        "conquistas": [
+            "Pensamento Lógico"
+        ]
+    },
+    "thiago": {
+        "pontos": 100,
+        "conquistas": [
+            "Introdução ao Python"
+        ]
+    },
+    "Igor": {
+        "senha": "b7375a47bf38e66f67034c91f3b44179be18978de85d9fc97ed2b1d570038b19",
+        "pontos": 0,
+        "conquistas": []
+    },
+    "matias": {
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "email": "Igor",
+        "pontos": 300,
+        "conquistas": [
+            "Segurança Digital",
+            "Pensamento Lógico",
+            "Introdução ao Python"
+        ]
+    },
+    "Eloah": {
+        "senha": "1ea2f89d934cb4a2af0b486736609cf9cb4bdafdc6e946e79aecb02b9d9dceb4",
+        "email": "eloa@gmail.com",
+        "pontos": 0,
+        "conquistas": []
+    },
+    "oi": {
+        "email": "oi",
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "pontos": 0,
+        "conquistas": []
+    },
+    "Antonio": {
+        "email": "Antonio@gmail.com",
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "pontos": 0,
+        "conquistas": []
+    },
+    "ana": {
+        "email": "ana1@gmail.com",
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "pontos": 200,
+        "conquistas": [
+            "Segurança Digital",
+            "Introdução ao Python"
+        ]
+    },
+    "Samuel": {
+        "email": "samuel2@gmail.com",
+        "senha": "4a9ca4596692e94f9d2912b06a0d007564a22ee750339a6021c2392149b25d6d",
+        "pontos": 100,
+        "conquistas": [
+            "Pensamento Lógico"
+        ]
+    }
+}
